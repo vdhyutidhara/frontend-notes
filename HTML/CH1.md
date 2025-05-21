@@ -45,7 +45,19 @@ https://www.w3schools.com/html/html_styles.asp
 https://www.w3schools.com/html/html_colors.asp
 
 -------------------------------------------
-ASSIGNMENT <br>
+ASSIGNMENT 1<br>
 Create a html page like below. 
 On click of `about me` text, it will redirect to Google.com
 ![alt text](image.png)
+
+SOLUTION 1
+```
+		<h1>Welcome to my Website!</h1>
+		<p>
+			Hello, and welcome to my new home on the web! <br>
+			Here you can find information about me and some of the projects I've worked on.
+		</p>
+		<div>
+			Start by reading the about <a href="http://www.google.com">about me</a> page.
+		</div>
+```
