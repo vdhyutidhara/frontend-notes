@@ -1,5 +1,6 @@
 #List Tags
 #Ordered List
+
 ```
 <ol>
   <li>Blendan Smooth
@@ -10,6 +11,7 @@
 ```
 
 #Unorderd List
+
 ```
 <ul>
   <li>Blendan Smooth
@@ -18,15 +20,16 @@
 </ul>
 ```
 
-
-#```<em> or <strong>```
+#`<em> or <strong>`
 
 #meta
+
 ```
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
 ```
 
 #Semantic HTML
+
 ```
 <header>
   <h1>Three words</h1>
@@ -59,6 +62,7 @@
 
 #Document structure
 ![alt text](image-2.png)
+
 ```
 <body>
   <header>Header</header>
@@ -69,8 +73,11 @@
 </body>
 ```
 
-#```<article>```
+#`<article>`
 
-#```<section>```
+#`<section>`
 
-#
+<hr/>
+#ASSIGNMENT 2
+
+![alt text](image-3.png)
