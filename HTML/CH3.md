@@ -13,3 +13,4 @@ https://www.w3schools.com/html/html5_video.asp
 #Assignment 3
 
 ![alt text](image-4.png)
+HINT: https://www.w3schools.com/html/html_tables.asp
