@@ -11,7 +11,7 @@
 <details>
   <summary>What is Full Stack?</summary>
 
-  ![full-stack](image.png)
+  ![full-stack](assets/image.png)
 </details>
 
 <details>
