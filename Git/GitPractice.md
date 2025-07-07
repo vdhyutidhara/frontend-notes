@@ -26,6 +26,8 @@ ls -> Give list of all files and folders in a curent directory
 
 cd ..  -> To move back to the previous folder
 
+git pull origin main -> To update status with remote repo
+
 ## Pushing Step
 
 1. git add . -> To put our changes in Staging Directory/Area
