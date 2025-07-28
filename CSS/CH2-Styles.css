@@ -1,0 +1,58 @@
+body {
+	background-color: aqua;
+}
+
+h1, p {
+	border: 10px solid red;
+	font-size: 15px;
+}
+
+h1::after {
+	content: "1";
+	color: blue;
+	font-size: 20px;
+}
+
+
+button:hover {
+	background-color: yellow;
+	color: red;
+	font-size: 20px;
+} 
+
+input:disabled {
+	background-color: purple;
+	color: black;
+}
+/* 
+#first-id::first-line {
+	background-color: green;
+	color: white;
+	font-size: 10px;
+} */
+
+/* body p {
+	background-color: yellow;
+	color: black;
+	font-size: 12px;
+} */
+
+p + p {
+	background-color: orange;
+}
+
+p ~ p {
+	background-color: blue;
+}
+
+body > button {
+	background-color: rgb(128, 0, 96);
+	color: white;
+	font-size: 18px;
+}
+
+a[alt="link"] {
+	text-decoration: none;
+	color: green;
+	font-size: 16px;
+}
